@@ -7,7 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently working on **React Projects**
+
+- 🌱 I’m currently learning **TypeScript**
+
+- 💬 Ask me about **HTML, CSS, Js, React, Wordpress, Webflow**
+
 - 📫 How to reach me **yogeshsbs02@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/14iD2vbg8AtbBWkH-FEkpg1QvvBJeTwH_/view?usp=drivesdk](https://drive.google.com/file/d/14iD2vbg8AtbBWkH-FEkpg1QvvBJeTwH_/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
